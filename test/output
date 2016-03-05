@@ -1,0 +1,7 @@
+    Phys     Black     Comnt    Comnt%      File
+    1884      1717       678        39      ./balloc.c
+       0         0         0         0      ./empty.cpp
+     208       186        26        14      ./hash.c
+       8         7         6        86      ./namei.h
+    1084       956       228        24      ./resize.c
+    3184      2866       938        33      SUMMARY
